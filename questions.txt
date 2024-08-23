@@ -1,0 +1,9 @@
+1) What do you think a computer network is, and why do you think it's important? 
+
+2) Have you ever experienced a network issues (like slow Wifi or trouble connecting to a service) How did it affect you? 
+
+3) Why do you think networking is a critical foundation for cybersecurity?
+
+4) What are some common ways you connect to the internet in your daily life?
+
+5) What concerns do you have about network security, either at home or in public places?
